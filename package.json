@@ -1,0 +1,16 @@
+{
+  "name": "fornpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^7.0.2",
+    "underscore": "^1.13.6"
+  }
+}
