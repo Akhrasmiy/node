@@ -12,5 +12,8 @@
     "mongoos": "^0.0.1-security",
     "mongoose": "^7.0.2",
     "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.6"
   }
 }
